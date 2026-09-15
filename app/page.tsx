@@ -3,7 +3,6 @@ import { CollectionTabs } from "@/components/CollectionTabs";
 import { BeforeAfter } from "@/components/BeforeAfter";
 import { ProductCard } from "@/components/ProductCard";
 import {
-  ARTICLES,
   FEATURED_PRODUCTS,
   HOME_COLLECTION_CARDS,
   SPLIT_PRODUCTS,
@@ -145,30 +144,6 @@ export default function HomePage() {
       </section>
 
       <BeforeAfter />
-
-      <section className="wrapper py-16 md:py-20">
-        <h2 className="heading mb-10 text-center text-[15px] tracking-[0.14em] uppercase">
-          News
-        </h2>
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
-          {ARTICLES.map((a) => (
-            <Link key={a.handle} href={`/news/${a.handle}`} className="group">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
-                src={a.image}
-                alt=""
-                className="aspect-16/10 w-full object-cover"
-              />
-              <p className="mt-4 text-[12px] tracking-[0.08em] text-muted uppercase">
-                {a.date}
-              </p>
-              <h3 className="heading mt-2 text-[20px] leading-snug group-hover:text-coral">
-                {a.title}
-              </h3>
-            </Link>
-          ))}
-        </div>
-      </section>
 
       <section className="border-t border-white/10 py-14">
         <div className="wrapper grid gap-10 md:grid-cols-3">

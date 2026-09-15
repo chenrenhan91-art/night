@@ -48,7 +48,6 @@ export const NAV = [
 export const FOOTER_MAIN = [
   { label: "Shop", href: "/collections/discover-the-full-collection" },
   { label: "Support", href: "/pages/support" },
-  { label: "News", href: "/news" },
   { label: "About", href: "/pages/about" },
   { label: "Contact", href: "/pages/contact" },
 ];
@@ -220,83 +219,6 @@ export const HOME_COLLECTION_CARDS = [
   { handle: "frontpage", title: "NS01 Task Lamp", subtitle: "NS01 Task Lamp" },
   { handle: "bedside-accessories", title: "Bedside Accessories", subtitle: "7 products" },
   { handle: "night-shades-collection", title: "Night Shades Collection", subtitle: "6 products" },
-];
-
-export const ARTICLES = [
-  {
-    handle: "best-bedside-reading-lamp",
-    title: "What Makes the Best Bedside Reading Lamp? 8 Features to Look For",
-    date: "July 27, 2026",
-    image: withBase("/media/site/news-1.jpg"),
-    excerpt:
-      "A bedside lamp has one job after sunset: enough light to read, and not so much that the room stays awake. Here is what actually matters when you choose one.",
-    body: `Most reading lights fail in the same few ways. They spill brightness across the bed. They throw a hard shadow on the page. They run too cool, so the room never quite settles.
-
-A focused warm spotlight changes that. Look for a color temperature near 3000K, a beam you can aim, and a shade that still gives the room a soft ambient glow when the task light is tucked away.
-
-Dimming should be on the lamp itself, not buried in an app. The switch belongs where your hand already is. USB-C power keeps replacement simple. A removable shade lets you change the mood without replacing the whole fixture.
-
-Height around 18 inches keeps the light above the page without looming over the pillow. And if you share a bed, the beam has to stop at the book. That is the difference between a lamp and a ceiling light that happens to sit on a table.`,
-  },
-  {
-    handle: "summer-reading-reconsidered",
-    title: "Summer Reading, Reconsidered",
-    date: "June 27, 2026",
-    image: withBase("/media/site/news-summer.jpg"),
-    excerpt:
-      "Longer evenings do not mean brighter rooms. Summer reading works better when the light stays close to the page.",
-    body: `Summer stretches the day, then dumps you into a warm, restless night. Screens stay on later. Overhead lights feel harsher against still-bright windows.
-
-A small, warm task lamp gives the evening a border. You can finish a chapter without lighting the whole room, and you can close the book without the house still humming at full brightness.
-
-Keep the rest of the bedside quiet: a journal, a glass of water, a clock that does not glare. The lamp does the rest.`,
-  },
-  {
-    handle: "bedroom-probably-isnt-dark-enough",
-    title: "Your Bedroom Probably Isn't Dark Enough",
-    date: "January 26, 2026",
-    image: withBase("/media/site/news-dark.webp"),
-    excerpt:
-      "Even a little leftover light can keep the body from settling. The last hour before sleep deserves a different kind of lamp.",
-    body: `Streetlight, hallway glow, a phone face-down but still breathing. Bedrooms collect light they were never meant to keep.
-
-Warm, directional light is easier to shut down. When you are done reading, the room can actually go dark. That is the point of a bedside lamp that does one thing well, then gets out of the way.`,
-  },
-  {
-    handle: "design-for-the-dark",
-    title: "Design for the Dark",
-    date: "October 20, 2025",
-    image: withBase("/media/site/news-design.jpg"),
-    excerpt:
-      "The transition from wakefulness to sleep is one of the few rituals that remains universal, and yet it has become increasingly neglected.",
-    body: `The transition from wakefulness to sleep is one of the few rituals that remains universal, and yet it has become increasingly neglected. Surrounded by screens and artificial brightness, we carry daylight into the one room that should release it.
-
-Designing for the dark is not about making objects gloomy. It is about objects that still work when the house is quiet: a warm beam, a shade that glows instead of glares, a switch you can find without thinking.
-
-That is the brief behind the NS01. Ambient light for the room. A spotlight for the page. Nothing extra once you are ready to sleep.`,
-  },
-  {
-    handle: "inclusive-design-sensory-spaces",
-    title: "Shedding Light on Inclusive Design: Sensory Spaces",
-    date: "June 20, 2025",
-    image: withBase("/media/site/news-icff.png"),
-    excerpt:
-      "Soft, controllable light is not a luxury finish. For many people it is the difference between a room that calms and a room that overwhelms.",
-    body: `Inclusive lighting starts with control. Brightness you can lower. Color that stays warm. A beam that does not rake across a partner's pillow.
-
-Sensory-friendly rooms need fewer surprises: no flicker, no blue spike, no app between you and the switch. A single warm LED, dimmable by hand, is still one of the kindest things you can put beside a bed.`,
-  },
-  {
-    handle: "quiet-light-for-late-hours",
-    title: "Quiet Light for Late Hours",
-    date: "March 03, 2025",
-    image: withBase("/media/site/news-gear.png"),
-    excerpt:
-      "The NS01 was built for the last hour of the day: a calm glow for the room, and a tight spotlight when you still have pages left.",
-    body: `Late hours ask for a different tool than a desk lamp. You want the page bright and the rest of the bed left alone.
-
-The NS01 keeps a cotton shade for ambient light and hides a reading spotlight until you need it. Warm white, one watt, a dimmer on the front. It is a small machine for a small ritual.`,
-  },
 ];
 
 export const FAQS = [
