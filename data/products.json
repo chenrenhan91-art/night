@@ -1,0 +1,736 @@
+[
+  {
+    "id": 9046752624778,
+    "title": "Mindful Focus 30 Minute Hourglass",
+    "handle": "mindful-focus-hour-glass-by-intelligent-change",
+    "vendor": "MANA TRADE",
+    "type": "30 minute Hourglass",
+    "price": 40.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48864205832330,
+        "title": "Default Title",
+        "price": 40.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/mindful-focus-hour-glass_A7403589.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/mindful-focus-hour-glass_A7403589.jpg",
+      "/media/products/mindful-focus-hour-glass_A7403642.jpg",
+      "/media/products/mindful-focus-hour-glass_A7403591.jpg",
+      "/media/products/mindful-focus-hour-glass_A7403606.jpg"
+    ],
+    "description": "From our friends at Intelligent Change, the Mindful Focus Hourglass offers a simple way to slow down and be present. Use the 30-minute timer to create focused work sessions, encourage screen-free moments, support meditation or journaling, or mark a quiet pause before bed. Thoughtfully crafted with a refined, modern aesthetic, it\u2019s both a functional ritual object and a meaningful gift for anyone seeking more calm and clarity in their daily routine.\nHourglass length: 30 minutes\nWeight: 0.95lb / 433g\nPackaging made of 100% recycled Kraft card board\nMade in China",
+    "url": "/products/mindful-focus-hour-glass-by-intelligent-change"
+  },
+  {
+    "id": 9046754656394,
+    "title": "The Best Year Journal",
+    "handle": "the-best-year-journal-by-intelligent-change",
+    "vendor": "MANA TRADE",
+    "type": "Journal",
+    "price": 32.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Language version",
+        "position": 1,
+        "values": [
+          "English (United States)"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 48864388055178,
+        "title": "English (United States)",
+        "price": 32.0,
+        "available": true,
+        "option1": "English (United States)",
+        "image": "/media/products/the-best-year-journal-by_A7403618-3.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/the-best-year-journal-by_A7403618-3.jpg",
+      "/media/products/the-best-year-journal-by_A7403631-2.jpg",
+      "/media/products/the-best-year-journal-by_A7403637_a262a7d0-6650-430b-bbf4-c59ee56180f0.jpg",
+      "/media/products/the-best-year-journal-by_A7403625.jpg",
+      "/media/products/the-best-year-journal-by_A7403628.jpg"
+    ],
+    "description": "From our friends at Intelligent Change, this journal-planner hybrid will help you plan a year of clarity and growth. With over 100 prompts, it guides you through reflecting on the past year, setting meaningful intentions, and transforming them into actionable steps. Weekly and monthly reviews help you stay on track and adapt as you go. No pressure, just steady progress.\nUndated, lasts one year\n175 pages\n100% recycled, compostable\nProduct Language: English\nWeight: 14 oz (396.89 g)\nPrinted and bound in China",
+    "url": "/products/the-best-year-journal-by-intelligent-change"
+  },
+  {
+    "id": 6991080915082,
+    "title": "NS01 Personal Task Lamp",
+    "handle": "nightside-lamp-white",
+    "vendor": "MANA TRADE",
+    "type": "Lamps",
+    "price": 349.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "White",
+          "Gray"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 42918202540170,
+        "title": "White",
+        "price": 349.0,
+        "available": true,
+        "option1": "White",
+        "image": "/media/products/nightside-lamp-white_NS01_white_ext.jpg"
+      },
+      {
+        "id": 42918202572938,
+        "title": "Gray",
+        "price": 349.0,
+        "available": true,
+        "option1": "Gray",
+        "image": "/media/products/nightside-lamp-white_NS01_grey_ext.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/nightside-lamp-white_NS01_white_ext.jpg",
+      "/media/products/nightside-lamp-white_NS01_white_on.jpg",
+      "/media/products/nightside-lamp-white_NS01_white_off.jpg",
+      "/media/products/nightside-lamp-white_Nightside_close_up_room_WhiteLamp_SpotLight_Book.jpg",
+      "/media/products/nightside-lamp-white_2024_04_24_Nightside4014.jpg",
+      "/media/products/nightside-lamp-white_NS01_detail_2.jpg",
+      "/media/products/nightside-lamp-white_NS01_detail_9.jpg",
+      "/media/products/nightside-lamp-white_NS01_detail_6.jpg",
+      "/media/products/nightside-lamp-white_NS01_detail_7.jpg",
+      "/media/products/nightside-lamp-white_NS01_grey_ext.jpg"
+    ],
+    "description": "Winner of both 2024 iF Design and LIT Design awards. The soft glow of the NS01 table lamp creates a relaxing ambience, while a press of a button extends a patented reading spotlight that won't bother anyone else.\nAdditional Features:\nSoothing Warm-White LED (3000k color temp.) \nFront-mounted On/Off Dimmer Switch\nUSB-C Adapter and Cable\nCarefully assembled \nRemovable Cotton Shade\nAccessories: lens cleaning cloth, mini screwdriver\n1 year limited \nWarranty",
+    "url": "/products/nightside-lamp-white"
+  },
+  {
+    "id": 8251786690698,
+    "title": "Five Minute Journal",
+    "handle": "five-minute-journal",
+    "vendor": "MANA TRADE",
+    "type": "Journal",
+    "price": 32.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Black",
+          "Linen"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45318819610762,
+        "title": "Black",
+        "price": 32.0,
+        "available": true,
+        "option1": "Black",
+        "image": "/media/products/five-minute-journal_9046d8a9b887205fb8478b5ec8055b049a0b982bfbec831469bb596c7c13b0de.webp"
+      },
+      {
+        "id": 45318819643530,
+        "title": "Linen",
+        "price": 32.0,
+        "available": false,
+        "option1": "Linen",
+        "image": "/media/products/five-minute-journal_5190d9755147ed0c79dda9550ac48385403707dc76d47afa79b64458b7ad7457.webp"
+      }
+    ],
+    "images": [
+      "/media/products/five-minute-journal_Journal_collection_1.jpg",
+      "/media/products/five-minute-journal_9046d8a9b887205fb8478b5ec8055b049a0b982bfbec831469bb596c7c13b0de.webp",
+      "/media/products/five-minute-journal_5190d9755147ed0c79dda9550ac48385403707dc76d47afa79b64458b7ad7457.webp",
+      "/media/products/five-minute-journal_67469319bf55a824e5754748364156687949ecd6e50926df02f0436646d5a4ed.webp",
+      "/media/products/five-minute-journal_f6b695cb7ee447b024c07af605a430fe9056def25371f3b710023954caee488f.webp",
+      "/media/products/five-minute-journal_Jess_Craighill_Photos-03.jpg"
+    ],
+    "description": "The Five Minute Journal by Intelligent Change is the original guided gratitude journal that has sold over 2 million copies. Sleep studies have shown light journaling before bedtime can help improve sleep. The Five Minute Journal guides you through reflecting on the positive aspects of your day, making it a simple routine to boost your mood, overall happiness and clear your mind on the way to a good night sleep.\nUndated, lasts 6 months\n264 pages",
+    "url": "/products/five-minute-journal"
+  },
+  {
+    "id": 8666807468170,
+    "title": "Brass Jack Puzzle",
+    "handle": "craighill-brass-jack-puzzle",
+    "vendor": "MANA TRADE",
+    "type": "Puzzle",
+    "price": 98.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 47027624640650,
+        "title": "Default Title",
+        "price": 98.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/craighill-brass-jack-puz_Brass_Jack_1_87209bcb-1c61-4a03-b106-cef3e92b38da.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/craighill-brass-jack-puz_Brass_Jack_1_87209bcb-1c61-4a03-b106-cef3e92b38da.jpg",
+      "/media/products/craighill-brass-jack-puz_Brass_Jack_7_07cabed0-7c11-4dcb-904e-86795159b428.jpg",
+      "/media/products/craighill-brass-jack-puz_Brass_Jack_2_a49d55a0-ea35-4a9b-b022-d498f251b5c9.jpg",
+      "/media/products/craighill-brass-jack-puz_jackinbowl_7fd77470-a423-426f-b8d5-f0ef5b289e39.jpg",
+      "/media/products/craighill-brass-jack-puz_ab06e147fe1b23ebf499d863011dabac3f7a13007a0e8fb9cd5a880.webp"
+    ],
+    "description": "This 3D puzzle from our friends at Craighill has six different notched brass bars that interlock in one specific way to create a unified \"jack\" shape. It's a beautiful object for your nightstand and a pleasing object to contemplate in those last moments before bedtime.",
+    "url": "/products/craighill-brass-jack-puzzle"
+  },
+  {
+    "id": 8292751409290,
+    "title": "FL\u00b7O Ring Finger Massager",
+    "handle": "orijin-floring",
+    "vendor": "MANA TRADE",
+    "type": "Massager",
+    "price": 10.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45472123289738,
+        "title": "Default Title",
+        "price": 10.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/orijin-floring_FL-O_ring_1.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/orijin-floring_FL-O_ring_1.jpg",
+      "/media/products/orijin-floring_FL-O_ring_5.jpg",
+      "/media/products/orijin-floring_FL-O_ring_2.jpg",
+      "/media/products/orijin-floring_Jess_Craighill_Photos-32.jpg"
+    ],
+    "description": "Experience the benefits of reflexology with the FL\u00b7O Ring from Orijin Design Company. Made from tightly bound, spring copper coils, the FL\u00b7O ring acts as a grounding finger massager. Gently roll the FL\u00b7O Ring up and down each finger to relax and unwind.",
+    "url": "/products/orijin-floring"
+  },
+  {
+    "id": 8311173939338,
+    "title": "Midnight Sun Throw Blanket",
+    "handle": "blacksaw-midnight-sun-reversible-baby-alpaca-wool-throw-blanket",
+    "vendor": "MANA TRADE",
+    "type": "Throw Blanket",
+    "price": 425.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45545551102090,
+        "title": "Default Title",
+        "price": 425.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_2.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_2.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_4.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_5.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_1.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_3.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Nightside_Midnight_Sun_Throw_Blanket_6.jpg",
+      "/media/products/blacksaw-midnight-sun-re_Black_Saw_Blanket_Photos-3.jpg",
+      "/media/products/blacksaw-midnight-sun-re_BlackSawBlanketPhotos-4.jpg",
+      "/media/products/blacksaw-midnight-sun-re_NS_Black_Saw_Lemon_Tree_-2.jpg",
+      "/media/products/blacksaw-midnight-sun-re_NS_Black_Saw_Lemon_Tree_-3.jpg",
+      "/media/products/blacksaw-midnight-sun-re_NS_Black_Saw_Lemon_Tree_-1.jpg"
+    ],
+    "description": "A natural phenomenon, Blacksaw's oatmeal heather yarn is 100% natural and un-dyed. Kindly sheared, and carefully sorted by hand, this baby alpaca is as pure as it gets.\nAdditional Features:\nReversible\nOatmeal heather yarns are 100% naturally colored &amp; free of dyes\nHypoallergenic/ No Itch\nRolled hem, with blanket stitching\nNo animals have been harmed in the production of this blanket\nDesigned in Canada",
+    "url": "/products/blacksaw-midnight-sun-reversible-baby-alpaca-wool-throw-blanket"
+  },
+  {
+    "id": 8511047172234,
+    "title": "Valet Tray - Small",
+    "handle": "valet-tray-small-by-ugmonk",
+    "vendor": "MANA TRADE",
+    "type": "",
+    "price": 69.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 46128678142090,
+        "title": "Default Title",
+        "price": 69.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/valet-tray-small-by-ugmo_Small_Tray.webp"
+      }
+    ],
+    "images": [
+      "/media/products/valet-tray-small-by-ugmo_Small_Tray.webp",
+      "/media/products/valet-tray-small-by-ugmo_Screenshot_2025-03-21_at_1.09.27_PM.png",
+      "/media/products/valet-tray-small-by-ugmo_Screenshot_2025-03-21_at_1.08.46_PM.png",
+      "/media/products/valet-tray-small-by-ugmo_Screenshot_2025-03-21_at_1.08.34_PM.png",
+      "/media/products/valet-tray-small-by-ugmo_Screenshot_2025-03-21_at_1.10.09_PM.png",
+      "/media/products/valet-tray-small-by-ugmo_Screenshot2025-03-21at1.00.29PM.png",
+      "/media/products/valet-tray-small-by-ugmo_temp_56bmbSS.png"
+    ],
+    "description": "The perfect place to store your everyday carry items. The non-slip rubber feet hold the valet tray in place and allow them to be stacked with additional trays. Each tray is handcrafted by master woodworkers in Pennsylvania, USA and features unique color and grain.  Additional sizes: medium and large.",
+    "url": "/products/valet-tray-small-by-ugmonk"
+  },
+  {
+    "id": 8514930147466,
+    "title": "Valet Tray - Medium",
+    "handle": "valet-tray-walnut-medium",
+    "vendor": "MANA TRADE",
+    "type": "",
+    "price": 79.0,
+    "available": false,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 46139345305738,
+        "title": "Default Title",
+        "price": 79.0,
+        "available": false,
+        "option1": "Default Title",
+        "image": "/media/products/valet-tray-walnut-medium_Screenshot2025-03-21at1.05.16PM.png"
+      }
+    ],
+    "images": [
+      "/media/products/valet-tray-walnut-medium_Screenshot2025-03-21at1.05.16PM.png",
+      "/media/products/valet-tray-walnut-medium_Screenshot_2025-03-21_at_1.05.49_PM.png",
+      "/media/products/valet-tray-walnut-medium_Screenshot_2025-03-21_at_1.06.32_PM.png",
+      "/media/products/valet-tray-walnut-medium_Screenshot_2025-03-21_at_1.06.54_PM.png",
+      "/media/products/valet-tray-walnut-medium_Screenshot2025-03-21at1.00.29PM.png",
+      "/media/products/valet-tray-walnut-medium_temp_56bmbSS.png"
+    ],
+    "description": "The perfect place to store your everyday carry items. The non-slip rubber feet hold the valet tray in place and allow them to be stacked with additional trays.  Each tray is handcrafted by master woodworkers in Pennsylvania, USA and features unique color and grain. Additional sizes: small and large.",
+    "url": "/products/valet-tray-walnut-medium"
+  },
+  {
+    "id": 8514937979018,
+    "title": "Valet Tray - Large",
+    "handle": "valet-tray-walnut-large",
+    "vendor": "MANA TRADE",
+    "type": "",
+    "price": 95.0,
+    "available": false,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 46139362738314,
+        "title": "Default Title",
+        "price": 95.0,
+        "available": false,
+        "option1": "Default Title",
+        "image": "/media/products/valet-tray-walnut-large_Screenshot_2025-03-21_at_12.57.04_PM.png"
+      }
+    ],
+    "images": [
+      "/media/products/valet-tray-walnut-large_Screenshot_2025-03-21_at_12.57.04_PM.png",
+      "/media/products/valet-tray-walnut-large_Screenshot_2025-03-21_at_12.59.21_PM.png",
+      "/media/products/valet-tray-walnut-large_Screenshot_2025-03-21_at_1.02.49_PM.png",
+      "/media/products/valet-tray-walnut-large_Screenshot2025-03-21at1.00.29PM.png",
+      "/media/products/valet-tray-walnut-large_temp_56bmbSS.png",
+      "/media/products/valet-tray-walnut-large_Screenshot2025-03-21at1.02.19PM.png"
+    ],
+    "description": "The perfect place to store your everyday carry items. The non-slip rubber feet hold the valet tray in place and allow them to be stacked with additional trays. Each tray is handcrafted by master woodworkers in Pennsylvania, USA and features unique color and grain. Additional sizes: small or medium.",
+    "url": "/products/valet-tray-walnut-large"
+  },
+  {
+    "id": 8543822217354,
+    "title": "Valet Tray Bundle",
+    "handle": "ugmonk-valey-tray-bundle",
+    "vendor": "MANA TRADE",
+    "type": "",
+    "price": 195.0,
+    "available": false,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 46238302371978,
+        "title": "Default Title",
+        "price": 195.0,
+        "available": false,
+        "option1": "Default Title",
+        "image": "/media/products/ugmonk-valey-tray-bundle_Ugmonk_Trays.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/ugmonk-valey-tray-bundle_Ugmonk_Trays.jpg",
+      "/media/products/ugmonk-valey-tray-bundle_Screenshot2025-03-21at1.00.29PM.png",
+      "/media/products/ugmonk-valey-tray-bundle_Screenshot_2025-03-21_at_1.01.29_PM.png",
+      "/media/products/ugmonk-valey-tray-bundle_Screenshot_2025-03-21_at_1.02.33_PM.png",
+      "/media/products/ugmonk-valey-tray-bundle_Screenshot_2025-03-21_at_12.57.53_PM_c59db55d-75b0-4171-a579-099ba1f578bb.png"
+    ],
+    "description": "The perfect place to store your everyday carry items. The non-slip rubber feet hold the valet tray in place and allow them to be stacked with additional trays.\nEach tray is handcrafted by master woodworkers in Pennsylvania, USA. Precision milled from solid walnut, sanded smooth, and sealed with a clear matte finish. Every tray has unique color and grain. \nSet of 3: small, medium, large.",
+    "url": "/products/ugmonk-valey-tray-bundle"
+  },
+  {
+    "id": 8485329830026,
+    "title": "Arc Alarm Clock",
+    "handle": "nanu-arc-alarm-clock",
+    "vendor": "MANA TRADE",
+    "type": "Alarm Clock",
+    "price": 299.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Pearl White",
+          "Classic Black"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 46052940644490,
+        "title": "Pearl White",
+        "price": 299.0,
+        "available": true,
+        "option1": "Pearl White",
+        "image": "/media/products/nanu-arc-alarm-clock_Arc_Alarm_Clock-1.jpg"
+      },
+      {
+        "id": 46052940611722,
+        "title": "Classic Black",
+        "price": 299.0,
+        "available": true,
+        "option1": "Classic Black",
+        "image": "/media/products/nanu-arc-alarm-clock_Arc_Alarm_Clock-2.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/nanu-arc-alarm-clock_Arc_Alarm_Clock-1.jpg",
+      "/media/products/nanu-arc-alarm-clock_Arc_Alarm_Clock-2.jpg",
+      "/media/products/nanu-arc-alarm-clock_Nanu_-_Brass_Jack.heic",
+      "/media/products/nanu-arc-alarm-clock_Nanu_-_Black_Front.png",
+      "/media/products/nanu-arc-alarm-clock_Nanu-B_W.png",
+      "/media/products/nanu-arc-alarm-clock_Nanu_collection-Expanded.jpg"
+    ],
+    "description": "Meet the Arc Alarm Clock by Nanu \u2014 a reimagined analog-style alarm clock that replaces your smartphone for a more mindful space and better sleep. The Arc's analog clock features an easy-set digital display that makes setting the alarm as quick as setting a smartphone\u2014without needing to bring one into the bedroom.\nThe clock movement is completely silent and gently illuminates at the press of a button. When the alarm activates, the Arc's mechanical chime produces a rich, resonant sound engineered for a gentle wake-up. The tone gradually intensifies, offering a calm start to your day. \u00a0The Arc is hand assembled from high quality materials and designed in compliance with Right-to-Repair laws. Tactile controls on the back of the clock make adjusting time and brightness effortless.\nPower: \n \nUSB-C wall power, 16 HR battery backup\n.",
+    "url": "/products/nanu-arc-alarm-clock"
+  },
+  {
+    "id": 8345554944138,
+    "title": "8-bit Hearts Cotton Shade (Shade only)",
+    "handle": "8-bit-black-hearts-cotton-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Red",
+          "Classic Black"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45669131944074,
+        "title": "Red",
+        "price": 45.0,
+        "available": true,
+        "option1": "Red",
+        "image": "/media/products/8-bit-black-hearts-cotto_NS01_8bit_hearts_white_on.jpg"
+      },
+      {
+        "id": 45669131976842,
+        "title": "Classic Black",
+        "price": 45.0,
+        "available": true,
+        "option1": "Classic Black",
+        "image": "/media/products/8-bit-black-hearts-cotto_NS_Nightshades-06.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/8-bit-black-hearts-cotto_NS01_8bit_hearts_white_on.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NS01_8bit_hearts_white_off.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NS01_8bit_hearts_white_ext.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NS_Nightshades-06.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NSShadeDesign-10.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NSShadeDesign-11.jpg",
+      "/media/products/8-bit-black-hearts-cotto_NSShadeDesign-6.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/8-bit-black-hearts-cotton-shade"
+  },
+  {
+    "id": 8344474976394,
+    "title": "Starlight Cotton Blackout Shade (Shade only)",
+    "handle": "starlight-cotton-blackout-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45665149354122,
+        "title": "Default Title",
+        "price": 45.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/starlight-cotton-blackou_NS_Nightshades-23.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/starlight-cotton-blackou_NS_Nightshades-23.jpg",
+      "/media/products/starlight-cotton-blackou_NS_Nightshades-22.jpg",
+      "/media/products/starlight-cotton-blackou_NS_Nightshades-21.jpg",
+      "/media/products/starlight-cotton-blackou_NSShadeDesign-26.jpg",
+      "/media/products/starlight-cotton-blackou_NSShadeDesign-17.jpg",
+      "/media/products/starlight-cotton-blackou_NSShadeDesign-2.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/starlight-cotton-blackout-shade"
+  },
+  {
+    "id": 8344486772874,
+    "title": "Electric Flow Field Cotton Shade (Shade only)",
+    "handle": "electric-flowfield-cotton-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Color",
+        "position": 1,
+        "values": [
+          "Classic Black",
+          "Pearl White"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45665174913162,
+        "title": "Classic Black",
+        "price": 45.0,
+        "available": true,
+        "option1": "Classic Black",
+        "image": "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_black_white_on.jpg"
+      },
+      {
+        "id": 45665180975242,
+        "title": "Pearl White",
+        "price": 45.0,
+        "available": true,
+        "option1": "Pearl White",
+        "image": "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_white_white_on.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_black_white_on.jpg",
+      "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_black_white_off.jpg",
+      "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_black_white_ext.jpg",
+      "/media/products/electric-flowfield-cotto_NS01_Electric_Flow_white_white_on.jpg",
+      "/media/products/electric-flowfield-cotto_NSShadeDesign-18.jpg",
+      "/media/products/electric-flowfield-cotto_NSShadeDesign-13.jpg",
+      "/media/products/electric-flowfield-cotto_NSShadeDesign-1.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/electric-flowfield-cotton-shade"
+  },
+  {
+    "id": 8344522358922,
+    "title": "Cursive Lines Cotton Shade (Shade only)",
+    "handle": "cursive-lines-cotton-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45665271545994,
+        "title": "Default Title",
+        "price": 45.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/cursive-lines-cotton-sha_NS_Nightshades-29.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/cursive-lines-cotton-sha_NS_Nightshades-29.jpg",
+      "/media/products/cursive-lines-cotton-sha_NS_Nightshades-28.jpg",
+      "/media/products/cursive-lines-cotton-sha_NS_Nightshades-27.jpg",
+      "/media/products/cursive-lines-cotton-sha_NSShadeDesign-21.jpg",
+      "/media/products/cursive-lines-cotton-sha_NSShadeDesign-12.jpg",
+      "/media/products/cursive-lines-cotton-sha_NSShadeDesign-9.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/cursive-lines-cotton-shade"
+  },
+  {
+    "id": 8344519540874,
+    "title": "Concentric Circles Cotton Shade (Shade only)",
+    "handle": "concentric-circles-cotton-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45665266303114,
+        "title": "Default Title",
+        "price": 45.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/concentric-circles-cotto_NS_Nightshades-17.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/concentric-circles-cotto_NS_Nightshades-17.jpg",
+      "/media/products/concentric-circles-cotto_NS_Nightshades-16.jpg",
+      "/media/products/concentric-circles-cotto_NS_Nightshades-15.jpg",
+      "/media/products/concentric-circles-cotto_NSShadeDesign-4.jpg",
+      "/media/products/concentric-circles-cotto_NS_Nightshades-14.jpg",
+      "/media/products/concentric-circles-cotto_NSShadeDesign-15.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/concentric-circles-cotton-shade"
+  },
+  {
+    "id": 8344528650378,
+    "title": "Alphabet Cascade Cotton Shade (Shade only)",
+    "handle": "alphabet-cascade-cotton-shade",
+    "vendor": "MANA TRADE",
+    "type": "Lamp Shade",
+    "price": 45.0,
+    "available": true,
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": 45665288716426,
+        "title": "Default Title",
+        "price": 45.0,
+        "available": true,
+        "option1": "Default Title",
+        "image": "/media/products/alphabet-cascade-cotton-_NS_Nightshades-11.jpg"
+      }
+    ],
+    "images": [
+      "/media/products/alphabet-cascade-cotton-_NS_Nightshades-11.jpg",
+      "/media/products/alphabet-cascade-cotton-_NS_Nightshades-10.jpg",
+      "/media/products/alphabet-cascade-cotton-_NS_Nightshades-09.jpg",
+      "/media/products/alphabet-cascade-cotton-_NSShadeDesign-23.jpg",
+      "/media/products/alphabet-cascade-cotton-_NSShadeDesign-14.jpg",
+      "/media/products/alphabet-cascade-cotton-_NSShadeDesign-5.jpg"
+    ],
+    "description": "Our collection of interchangeable fabric shades opens up an entire world of possibilities for your MANA lamp. Choose a subtle design that matches your decor, a blackout shade to reduce light even further, or make a statement with a bold pattern. The possibilities will grow with each collection and ensure you never get tired of the look of your lamp.",
+    "url": "/products/alphabet-cascade-cotton-shade"
+  }
+]
