@@ -17,7 +17,8 @@ export default function ReturnsPage() {
         packaging. You will also need proof of purchase.
       </p>
       <p>
-        To start a return, contact us at {COMPANY.phone} and include the reason
+        To start a return, contact us at{" "}
+        <a href={COMPANY.emailHref}>{COMPANY.email}</a> and include the reason
         plus a photo of the product. If accepted, we will send instructions for
         where to send the package. Items sent back without a request will not
         be accepted.

@@ -12,6 +12,8 @@ export const COMPANY = {
   ],
   phone: "+852 96915312",
   phoneHref: "tel:+85296915312",
+  email: "support@manatradeonline.com",
+  emailHref: "mailto:support@manatradeonline.com",
   year: 2026,
 };
 
@@ -232,7 +234,7 @@ export const FAQS = [
   },
   {
     q: "My order arrived damaged. What should I do?",
-    a: "Please contact us immediately using the form on this page so we can fix the issue. Include photos of the packaging and the product.",
+    a: `Please contact us immediately at ${COMPANY.email} or use the form on this page so we can fix the issue. Include photos of the packaging and the product.`,
   },
   {
     q: "How do I clean the fabric shade?",

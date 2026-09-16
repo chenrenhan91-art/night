@@ -24,6 +24,8 @@ export default function AboutPage() {
       <p>
         {COMPANY.addressLines.join(" ")}
         <br />
+        <a href={COMPANY.emailHref}>{COMPANY.email}</a>
+        <br />
         <a href={COMPANY.phoneHref}>{COMPANY.phone}</a>
       </p>
       <p>

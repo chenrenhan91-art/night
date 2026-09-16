@@ -32,7 +32,9 @@ export default function ShippingPage() {
         duties for products that cross international borders.
       </p>
       <p>
-        Questions: {COMPANY.phone}, {COMPANY.addressLines.join(" ")}
+        Questions:{" "}
+        <a href={COMPANY.emailHref}>{COMPANY.email}</a>, {COMPANY.phone},{" "}
+        {COMPANY.addressLines.join(" ")}
       </p>
     </PageIntro>
   );

@@ -55,6 +55,11 @@ export function Footer() {
                 <p key={line}>{line}</p>
               ))}
               <p className="mt-3">
+                <a href={COMPANY.emailHref} className="hover:text-coral">
+                  {COMPANY.email}
+                </a>
+              </p>
+              <p>
                 <a href={COMPANY.phoneHref} className="hover:text-coral">
                   {COMPANY.phone}
                 </a>

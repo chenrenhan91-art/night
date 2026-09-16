@@ -32,7 +32,8 @@ export default function PrivacyPage() {
       </p>
       <h2>Contact</h2>
       <p>
-        Privacy questions: {COMPANY.phone}
+        Privacy questions:{" "}
+        <a href={COMPANY.emailHref}>{COMPANY.email}</a>
         <br />
         {COMPANY.addressLines.join(" ")}
       </p>

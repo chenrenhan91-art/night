@@ -17,6 +17,11 @@ export default function ContactPage() {
             <p key={line}>{line}</p>
           ))}
           <p className="pt-3">
+            <a href={COMPANY.emailHref} className="text-paper hover:text-coral">
+              {COMPANY.email}
+            </a>
+          </p>
+          <p>
             <a href={COMPANY.phoneHref} className="text-paper hover:text-coral">
               {COMPANY.phone}
             </a>

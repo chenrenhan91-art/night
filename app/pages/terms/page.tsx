@@ -28,7 +28,7 @@ export default function TermsPage() {
       <p>
         We may refuse or cancel an order. You agree to provide current and
         complete purchase information. We will contact you using the details
-        you provide, including {COMPANY.phone}.
+        you provide, including {COMPANY.email}.
       </p>
       <h2>Limitation of liability</h2>
       <p>
@@ -40,7 +40,7 @@ export default function TermsPage() {
       <h2>Governing law</h2>
       <p>
         These terms are governed by the laws of Hong Kong. Questions:{" "}
-        {COMPANY.phone}.
+        <a href={COMPANY.emailHref}>{COMPANY.email}</a>.
       </p>
     </PageIntro>
   );

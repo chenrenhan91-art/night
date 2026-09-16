@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { FAQS } from "@/data/content";
+import { COMPANY, FAQS } from "@/data/content";
 import { ContactForm } from "@/components/ContactForm";
 
 export const metadata = { title: "Support" };
@@ -47,6 +47,13 @@ export default function SupportPage() {
       </section>
       <section className="max-w-[560px]">
         <h2 className="heading mb-4 text-[22px]">Still need help?</h2>
+        <p className="mb-6 text-muted">
+          Email us at{" "}
+          <a href={COMPANY.emailHref} className="text-paper hover:text-coral">
+            {COMPANY.email}
+          </a>{" "}
+          or use the form below.
+        </p>
         <ContactForm />
       </section>
     </div>

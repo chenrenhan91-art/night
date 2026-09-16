@@ -21,8 +21,8 @@ export default function CheckoutPage() {
       <div className="wrapper max-w-xl py-20 text-center">
         <h1 className="heading mb-4 text-[36px]">Thank you</h1>
         <p className="mb-6 text-muted">
-          Your order request has been received. We will confirm by phone at{" "}
-          {COMPANY.phone}.
+          Your order request has been received. We will confirm by email at{" "}
+          {COMPANY.email}.
         </p>
         <Link href="/" className="btn btn-outline-coral">
           Continue browsing
@@ -60,7 +60,7 @@ export default function CheckoutPage() {
           <textarea name="notes" rows={4} />
         </label>
         <p className="text-[13px] text-muted">
-          We will confirm payment and shipping by phone at {COMPANY.phone}.
+          We will confirm payment and shipping by email at {COMPANY.email}.
         </p>
         <button type="submit" className="btn btn-primary btn-full">
           Place order • {formatMoney(subtotal)} USD

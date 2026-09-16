@@ -29,7 +29,8 @@ export default function WarrantyPage() {
         </li>
         <li>
           Warranty service is arranged through {COMPANY.legalName},{" "}
-          {COMPANY.addressLines.join(" ")}. Contact {COMPANY.phone} to begin.
+          {COMPANY.addressLines.join(" ")}. Contact{" "}
+          <a href={COMPANY.emailHref}>{COMPANY.email}</a> to begin.
           If you do not have the original packaging it can be provided. Pack
           the item properly for shipment.
         </li>
